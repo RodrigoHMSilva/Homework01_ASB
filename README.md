@@ -1,4 +1,9 @@
-Trabalho realizado por Daniela Deodato, Ioana Chichirita, Jorge Santos e Rodrigo Silva
+Trabalho realizado por 
+Daniela Deodato 202000199;
+Ioana Chichirita 202000180;
+Jorge Santos 202000171;
+Rodrigo Silva 202000193;
+no âmbito da Unidade Curricular Análise de Sequências Biológicas 
 
 
 
